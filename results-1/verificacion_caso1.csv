@@ -1,4 +1,0 @@
-VehicleId,DepotId,InitialLoad,RouteSequence,ClientsServed,DemandsSatisfied,TotalDistance,TotalTime,FuelCost
-V3,D1,110,D1 - C21 - C7 - C19 - C22 - C16 - C10 - C17 - D1,7,14 - 17 - 11 - 18 - 10 - 15 - 25,75.56,90.68,1564167
-V19,D1,120,D1 - C2 - C4 - C15 - C1 - C24 - C11 - C9 - C18 - D1,8,15 - 15 - 17 - 13 - 11 - 17 - 20 - 12,67.39,80.87,1395025
-V21,D1,147,D1 - C12 - C20 - C14 - C23 - C3 - C5 - C8 - C6 - C13 - D1,9,12 - 15 - 15 - 15 - 12 - 20 - 20 - 17 - 21,59.56,71.48,1232983
