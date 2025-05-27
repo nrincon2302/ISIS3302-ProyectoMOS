@@ -1,4 +1,4 @@
-case,time_seconds,peak_memory_mb,total_memory_mb
-case1,910.7030624999998,6.12109375,104441.57968750001
-case2,29.455502900000283,0.2265625,673.24296875
-case3,,,
+case,time_seconds,peak_memory_mb,total_memory_mb,objective_value,total_distance,vehicles_used,load_balance_std,load_balance_range,load_balance_cv
+case1,910.7030624999998,6.12109375,104441.5796875,5303542.0,256.21,4,39.98984246030484,108.0,0.4242954107194148
+case2,29.455502900000283,0.2265625,673.24296875,2079151.0,100.44,1,0.0,0.0,0.0
+case3,,,,0.0,0.0,0,0.0,0.0,0.0
