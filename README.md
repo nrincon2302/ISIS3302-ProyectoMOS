@@ -49,7 +49,6 @@ Se utilizan herramientas como **OSRM** para el cálculo de distancias reales en 
 ├── Entrega_2_ReExecute.ipynb    # Copia de la Entrega 2 reejecutada con los datos de la etapa 3
 ├── Entrega_3.ipynb              # Implementación con GA.
 ├── README.md                    # El presente archivo README
-├── __pycache__/
 ```
 
 ---
