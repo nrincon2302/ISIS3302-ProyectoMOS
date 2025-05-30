@@ -1,4 +1,0 @@
-VehicleId,DepotId,InitialLoad,RouteSequence,ClientsServed,DemandsSatisfied,TotalDistance,TotalTime,FuelCost
-VEH001,D1,124,D1 - C22 - C15 - C4 - C1 - C24 - C16 - C10 - C17 - D1,8,18 - 17 - 15 - 13 - 11 - 10 - 15 - 25,79.9,199.9,1654904
-VEH002,D1,139,D1 - C6 - C18 - C5 - C8 - C11 - C9 - C13 - C3 - D1,8,17 - 12 - 20 - 20 - 17 - 20 - 21 - 12,83.5,208.7,1728189
-VEH003,D1,114,D1 - C20 - C12 - C21 - C7 - C19 - C2 - C23 - C14 - D1,8,15 - 12 - 14 - 17 - 11 - 15 - 15 - 15,64.8,161.9,1340912
